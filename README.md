@@ -9,19 +9,19 @@ A character recognition system is needed for an expenses tracker, where it'll be
 
 ### OCR Techniques
 - Pre-processing
--- De-skewing
--- Despekling
--- Binarization
--- Line-removal
--- Layout analysis or zoning
--- Line and word detection
--- Script recognition
--- Character isolation or segmentation
--- Normalization of aspect ratio and scale
-- Text recognition
--- Feature extraction
--- Matrix matching
-- Post-processing
+- -De-skewing
+- -Despekling
+- -Binarization
+- -Line-removal
+- -Layout analysis or zoning
+- -Line and word detection
+- -Script recognition
+- -Character isolation or segmentation
+- -Normalization of aspect ratio and scale
+- -Text recognition
+- -Feature extraction
+- -Matrix matching
+- -Post-processing
 
 ### Minor Todo
 - [x] Organize notes on Obsidian
